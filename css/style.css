@@ -1,0 +1,41 @@
+/**BODY**/
+
+body{
+    background-color:#daf7f6;
+    color:#3b3b3b;
+    font-family:'OpenSans', sans-serif;
+    font-size:12px;
+    line-height:16px;
+}
+
+
+
+/**HEADER**/
+
+header{
+    background-color:#ffffff;
+    text-align:center;
+}
+
+h1{
+    display:inline-block;
+    padding:40px 0;
+    margin:0px;
+    font-family:'Montserrat', sans-serif;
+    color:#f16059;
+    font-size:48px;
+    font-weight:bold;
+    text-transform:uppercase;
+}
+
+header img{
+    margin-right:16px;
+}
+
+main{
+    width:1000px;
+    margin:0 auto;
+}
+
+
+
